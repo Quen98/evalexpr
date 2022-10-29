@@ -4,6 +4,7 @@ EvalExpr lets you evaluate a string based condition, in the same behaviour as an
 
 ## Install
 Make sure you have Go installed and have set your GOPATH.
+
 `go get -u github.com/Quen98/evalexpr`
 
 ## Example
